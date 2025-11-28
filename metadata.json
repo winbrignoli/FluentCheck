@@ -1,0 +1,7 @@
+{
+  "name": "FluentCheck - Speech Filler Analyzer",
+  "description": "A real-time speech analysis tool that evaluates filler word usage in 1-minute speech segments using Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
